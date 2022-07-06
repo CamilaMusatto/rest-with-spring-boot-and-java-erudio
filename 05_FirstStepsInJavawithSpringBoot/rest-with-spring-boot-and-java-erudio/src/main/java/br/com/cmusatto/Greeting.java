@@ -3,7 +3,6 @@ package br.com.cmusatto;
 public class Greeting {
 
     private final long id;
-    private long tamanhoDoPau;
     private final String content;
 
     public Greeting(long id, String content) {
