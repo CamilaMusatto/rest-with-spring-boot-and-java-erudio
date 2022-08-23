@@ -1,0 +1,12 @@
+br/com/cmusatto/data/vo/v2/PersonVOV2.class
+br/com/cmusatto/Startup.class
+br/com/cmusatto/exceptions/ExceptionResponse.class
+br/com/cmusatto/services/PersonServices.class
+br/com/cmusatto/mapper/custom/PersonMapper.class
+br/com/cmusatto/data/vo/v1/PersonVO.class
+br/com/cmusatto/controllers/PersonController.class
+br/com/cmusatto/exceptions/ResourceNotFoundException.class
+br/com/cmusatto/model/Person.class
+br/com/cmusatto/mapper/DozerMapper.class
+br/com/cmusatto/exceptions/handler/CustomizedResponseEntityExceptionHandler.class
+br/com/cmusatto/repositories/PersonRepository.class

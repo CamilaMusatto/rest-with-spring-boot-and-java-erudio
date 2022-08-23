@@ -1,0 +1,3 @@
+br/com/cmusatto/unittests/mapper/mocks/MockPerson.class
+br/com/cmusatto/RestWithSpringBootAndJavaErudioApplicationTests.class
+br/com/cmusatto/unittests/mapper/DozerConverterTest.class
